@@ -8,7 +8,20 @@ To develop a single sided PCB board for a single digit token number display syst
     proteus software
     STM 32ide software
 
+### Procedure:
+STEP 1: open proteus software and draw the schematic diagram.
+
+STEP 2: open pcb layout and convert it to 3d view.
+
+STEP 3: open ide software configure the I/O pins.
+
+STEP 4: write the code for seven segment display and buzzer.
+
+STEP 5: uplode the elf file and run.
+
+
 ### Schematic:
+![WhatsApp Image 2023-04-27 at 12 06 16](https://user-images.githubusercontent.com/75235090/235046634-fd9e463e-5f00-43bd-81f5-970126e03f7c.jpeg)
 
 ### Code:
 ```
@@ -126,8 +139,10 @@ int main(void)
 ~~~
 ```
 ### PCB Layout:
+![Uploading WhatsApp Image 2023-04-27 at 12.07.56.jpeg…]()
 
 #### TopLayer:
+
 
 #### BottomLayer:
 
