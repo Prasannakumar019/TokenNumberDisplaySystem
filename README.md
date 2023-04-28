@@ -9,15 +9,15 @@ To develop a single sided PCB board for a single digit token number display syst
     STM 32ide software
 
 ### Procedure:
-STEP 1: open proteus software and draw the schematic diagram.
+Step 1: open proteus software and draw the schematic diagram.
 
-STEP 2: open pcb layout and convert it to 3d view.
+Step 2: open pcb layout and convert it to 3d view.
 
-STEP 3: open ide software configure the I/O pins.
+Step 3: open ide software configure the I/O pins.
 
-STEP 4: write the code for seven segment display and buzzer.
+Step 4: write the code for seven segment display and buzzer.
 
-STEP 5: uplode the elf file and run.
+Step 5: uplode the elf file and run.
 
 
 ### Schematic:
@@ -139,15 +139,22 @@ int main(void)
 ~~~
 ```
 ### PCB Layout:
-![Uploading WhatsApp Image 2023-04-27 at 12.07.56.jpeg…]()
+![WhatsApp Image 2023-04-27 at 12 07 56](https://user-images.githubusercontent.com/75235090/235055434-4898a67d-824b-4735-a6d8-f8f20492d4bd.jpeg)
+
 
 #### TopLayer:
 
+![WhatsApp Image 2023-04-27 at 12 02 00](https://user-images.githubusercontent.com/75235090/235056915-8563e95e-ceae-4b10-9e40-fb2978a7f67d.jpeg)
+
+
 
 #### BottomLayer:
+![WhatsApp Image 2023-04-27 at 12 02 00 (1)](https://user-images.githubusercontent.com/75235090/235055510-e3615b87-0168-428e-9c5e-6f1e9a52d4d6.jpeg)
 
 
 ### 3D View:
+![WhatsApp Image 2023-04-27 at 12 01 59](https://user-images.githubusercontent.com/75235090/235057005-97be4a44-b9e5-4fb8-a083-e3da6136e4ab.jpeg)
+
 
 ### Result:
 Thus the simulation of token number display with buzzer is executed succesfully.
